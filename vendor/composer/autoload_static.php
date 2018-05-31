@@ -43,7 +43,7 @@ class ComposerStaticInitbf6684a1cffbfcfa4441a435df8dc2f4
         ),
         'Googlei18n\\MyanmarTools\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/clients/php/src',
+            0 => __DIR__ . '/../..' . '/clients/php',
         ),
         'Doctrine\\Instantiator\\' => 
         array (
